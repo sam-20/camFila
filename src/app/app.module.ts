@@ -16,7 +16,7 @@ import { CallNumber } from '@ionic-native/call-number';
 import { File } from '@ionic-native/file';
 import { MediaCapture } from '@ionic-native/media-capture';
 import { Media } from '@ionic-native/media';
-import { IonicStorageModule } from '@ionic/Storage'
+import { IonicStorageModule } from '@ionic/storage'
 import { VideoPlayer } from '@ionic-native/video-player/';
 import { StreamingMedia } from '@ionic-native/streaming-media'
 import { VideoEditor } from '@ionic-native/video-editor';
